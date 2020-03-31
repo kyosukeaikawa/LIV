@@ -1,0 +1,8 @@
+ ドライブ C のボリューム ラベルは Local Disk です
+ ボリューム シリアル番号は C2D6-F4F1 です
+
+ C:\Users\KYOSUKE\Desktop\github\gittest のディレクトリ
+
+
+ C:\Users\KYOSUKE\Desktop\github\gittest のディレクトリ
+
